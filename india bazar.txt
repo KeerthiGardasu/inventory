@@ -1,0 +1,5 @@
+total inventory
+Rice bags:               .....10
+suagar packets:          .....15
+salt:                    .....11
+Toor dhal:               .....50
